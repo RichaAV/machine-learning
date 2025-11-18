@@ -88,6 +88,6 @@ Evaluated using:
 
 <li>Mean Absolute Error (MAE)</li>
 
-<li>Mean Squared Error (MSE)</li>
+<li>Mean Squared Error (MSE)</li></ul>
 
 Final metrics reflect the model's regression performance on unseen data.
